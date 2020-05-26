@@ -1,0 +1,1 @@
+Access object which does not belong to the class
